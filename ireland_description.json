@@ -1,0 +1,19 @@
+{
+    "Year": {
+        "description": "The year for which the data is recorded.",
+        "type": "integer",
+        "example": 1971
+    },
+    "Primary Enrollment": {
+        "description": "Enrollment numbers for the given year.",
+        "type": "float",
+        "unit": "students",
+        "example": 399700.0
+    },
+    "GDP": {
+        "description": "The Gross Domestic Product for the given year.",
+        "type": "float",
+        "unit": "current US$",
+        "example": 5098250287.46646
+    }
+}
